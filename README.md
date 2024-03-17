@@ -2,7 +2,7 @@
 Python For Data Sciences From Cognitive.Class AI 
 
 ### Klasifikasi Dikerjakan Oleh : Meila  Adisty Putri (  Universitas Bhayangkara Jakarta Raya )
-Berjudul : Klasifikasi bunga tulip menggunakan decision tree 
+Berjudul : Klasifikasi Bunga Tulip Menggunakan Decision Tree 
 
 Author : Meila Adisty Putri
 
